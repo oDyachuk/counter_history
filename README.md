@@ -30,11 +30,11 @@ flutter run
 
 ## Скриншоти
 
+![10 кратне](docs/emulator.png.png)
+![snackbar](docs/snackbar.png.png)
+![історія](docs/history_minus.png.png)
+![скидання](docs/reset.png.png)
 ![flutter doctor](docs/flutter-doctor.png)
-![10 кратне](docs/emulator.png)
-![snackbar](docs/snackbar.png)
-![історія](docs/history_minus.png)
-![скидання](docs/reset.png)
 
 ## Hot Reload / Hot Restart
 
